@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on
+A .NET application for invoice and expense management with SQL Server, and a portfolio to showcase my Unity programming projects.
+
+👯 I’m looking to collaborate on
+Unity game development and desktop applications with .NET.
+
+🤝 I’m looking for help with
+Best practices in software architecture and Unity project optimization.
+
+🌱 I’m currently learning
+Unity Shaders, URP, and design patterns in C#.
+
+💬 Ask me about
+Unity development, C# programming, and SQL Server databases.
+
+⚡ Fun fact
+Sometimes I enjoy debugging more than actually playing video games 😅.
 
 
 ## 🌐 Socials:
